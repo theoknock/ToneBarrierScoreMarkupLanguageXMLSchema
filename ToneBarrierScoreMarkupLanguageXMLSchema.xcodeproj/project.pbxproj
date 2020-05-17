@@ -1,0 +1,68 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXGroup section */
+		B9A510402471BB6B00EF8F9E = {
+			isa = PBXGroup;
+			children = (
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		B9A510412471BB6B00EF8F9E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1150;
+			};
+			buildConfigurationList = B9A510442471BB6B00EF8F9E /* Build configuration list for PBXProject "ToneBarrierScoreMarkupLanguageXMLSchema" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = B9A510402471BB6B00EF8F9E;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		B9A510452471BB6B00EF8F9E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		B9A510462471BB6B00EF8F9E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B9A510442471BB6B00EF8F9E /* Build configuration list for PBXProject "ToneBarrierScoreMarkupLanguageXMLSchema" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B9A510452471BB6B00EF8F9E /* Debug */,
+				B9A510462471BB6B00EF8F9E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = B9A510412471BB6B00EF8F9E /* Project object */;
+}
